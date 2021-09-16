@@ -52,10 +52,12 @@
 
 각 직업군 별로 점수를 계산해보면 아래와 같습니다.<br />
 아래 사진은 개발자 언어 선호도 나타낸 표입니다.<br />
-사진
+![tc1_preference](https://user-images.githubusercontent.com/55906697/133591142-40b0ec63-1bf0-4626-91c6-d7a050eda869.png)
+
 <br/><br/>
 아래 사진은 개발자가 선호하는 언어의 직업군 언어 점수를 나타낸 표입니다.<br />
-사진
+![tc1_score](https://user-images.githubusercontent.com/55906697/133591151-b248d489-57db-481a-8cba-c57026f6800d.png)
+
 <br/><br/>
 따라서 점수 총합이 41로 가장 높은 "HARDWARE"를 return 해야 합니다.<br/><br/>
 
@@ -64,10 +66,13 @@
 각 직업군 별로 점수를 계산해보면 아래와 같습니다.<br/>
 아래 사진은 개발자 언어 선호도 나타낸 표입니다.<br/>
 
-tc2_preference.PNG
+![tc2_preference](https://user-images.githubusercontent.com/55906697/133591174-2fcf2a71-a9ea-40b2-91bd-1cfb25b21d17.png)
+
 <br/><br/>
 아래 사진은 개발자가 선호하는 언어의 직업군 언어 점수를 나타낸 표입니다.<br/>
 
-tc2_score.PNG<br/><br/>
+![tc2_score](https://user-images.githubusercontent.com/55906697/133591207-fbe2cb24-491f-4813-b3c1-07bc6f2e6bff.png)
+
+<br/><br/>
 점수 총합이 55로 가장 높은 직업군은 "SI" 와 "PORTAL"입니다.<br/>
 따라서 사전 순으로 먼저 오는 "PORTAL"을 return 해야 합니다.<br/>
