@@ -1,8 +1,10 @@
+<a href="https://programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a>
+
 ## 문제 설명
 
 스마트폰 전화 키패드의 각 칸에 다음과 같이 숫자들이 적혀 있습니다.<br />
 
-kakao_phone1.png
+![kakao_phone1](https://user-images.githubusercontent.com/55906697/135719107-cf622a3d-8e2f-4767-b4da-3141a00ee320.png)
 
 이 전화 키패드에서 왼손과 오른손의 엄지손가락만을 이용해서 숫자만을 입력하려고 합니다.<br />
 맨 처음 왼손 엄지손가락은 \* 키패드에 오른손 엄지손가락은 # 키패드 위치에서 시작하며, 엄지손가락을 사용하는 규칙은 다음과 같습니다.<br /><br />
