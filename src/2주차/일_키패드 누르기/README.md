@@ -1,4 +1,4 @@
-<a href="https://programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a>
+# <a href="https://programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a>
 
 ## 문제 설명
 
